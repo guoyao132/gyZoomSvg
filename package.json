@@ -1,0 +1,17 @@
+{
+  "name": "gy-zoom-svg",
+  "version": "1.0.0",
+  "description": "zoom and move svg",
+  "main": "./index.js",
+  "author": "gy",
+  "license": "MIT",
+  "keywords": [
+    "gy",
+    "zoom svg",
+    "move svg"
+  ],
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
